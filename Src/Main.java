@@ -3,7 +3,7 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-
+// изменение
 
         // объявление массивов
         int[] box1 = new int[3];
