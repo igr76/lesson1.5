@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
 
+
         // объявление массивов
         int[] box1 = new int[3];
         box1[0] = 1;
@@ -20,6 +21,7 @@ public class Main {
             } else {
                 System.out.print(box1[j] + " ,");
             }
+                //sfsrfre
         }
         for (int v = 0; v < b.length; v++) {
             if (v == b.length - 1) {
